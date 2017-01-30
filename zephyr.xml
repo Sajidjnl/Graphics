@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<daylight_headers>
+    <hour_header hour="6" image="zephyr_sunrise" />
+	<hour_header hour="9" image="zephyr_morning" />
+	<hour_header hour="11" image="zephyr_noon" />
+	<hour_header hour="13" image="zephyr_afternoon" />
+	<hour_header hour="19" image="zephyr_sunset" />
+	<hour_header hour="21" image="zephyr_night" />
+</daylight_headers>	
+	
